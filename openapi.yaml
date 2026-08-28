@@ -8,7 +8,7 @@ paths:
   /{handlaggningId}/komplettering:
     get:
       summary: Hämta kompletteringsdata
-      description: Hämta de uppgifter som redan är registrerade för ärendet, som underlag för att komplettera med saknade personnummer
+      description: Hämta de uppgifter som redan är registrerade för ärendet, som underlag för att komplettera med saknad information
       parameters:
         - $ref: "#/components/parameters/HandlaggningId"
       responses:
