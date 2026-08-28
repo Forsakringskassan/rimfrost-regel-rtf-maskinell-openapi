@@ -1,3 +1,18 @@
+## 0.0.2 (2026-08-28)
+
+### Bug Fixes
+
+-  add rtfkompletteringsvar to get ([94348](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-openapi/commit/94348943878e720) Nils Elveros)  
+
+### Other changes
+
+**Update openapi.yaml**
+
+* Co-authored-by: Ulf Slunga &lt;98820233+UlfSlunga-Sinetiq@users.noreply.github.com&gt; 
+
+[b6ae3](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-openapi/commit/b6ae3f10774adce) NilsElveros *2026-08-28 09:04:10*
+
+
 # rimfrost-regel-rtf-maskinell-openapi changelog
 
 Changelog of rimfrost-regel-rtf-maskinell-openapi.
